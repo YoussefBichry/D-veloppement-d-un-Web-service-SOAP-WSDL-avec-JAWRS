@@ -1,9 +1,9 @@
 # Développement d'un Web service SOAP, WSDL avec JAWRS
 
 #### 1. Créer un Web service qui permet de : 
-• Convertir un montant de l’auro en DH
-• Consulter un Compte
-• Consulter une Liste de comptes
+###### • Convertir un montant de l’auro en DH
+###### • Consulter un Compte
+###### • Consulter une Liste de comptes
 
 #### 2. Déployer le Web service avec un simple Serveur JaxWS
 
