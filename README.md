@@ -1,52 +1,20 @@
-# Rest-Application 
+# Développement d'un Web service SOAP, WSDL avec JAWRS
 
-* ## Description 
+#### 1. Créer un Web service qui permet de : 
+• Convertir un montant de l’auro en DH
+• Consulter un Compte
+• Consulter une Liste de comptes
 
-1. ### Creation of a Web service that allows:
+#### 2. Déployer le Web service avec un simple Serveur JaxWS
 
-- Convert an amount from the euro to DH 
-- Consult an Account
-- Consult a List of accounts
+#### 3. Consulter et analyser le WSDL avec un Browser HTTP
 
-2. ### Deploy the Web service with a simple JaxWS Server
+#### 4. Tester les opérations du web service avec un outil comme SoapUI ou Oxygen
 
-3. ### Consult and analyze the WSDL with an HTTP Browser
+#### 5. Créer un Client SOAP Java
 
-4. ### Create a Java SOAP Client
+#### 6. Créer un Client SOAP Dot Net
 
-* ## Execution .
+#### 7. Créer un Client SOAP PHP
 
-1. ### JaxWS Web Service Implementation
-
-![](/assets/images/WebService.png)
-
-![](/assets/images/Compte.png)
-
-2. ### Simple JAX WS Server
-
-![](/assets/images/main.png)
-
-- Java server execution
-
-![](/assets/images/exec1.png)
-
-3. ### Analyze the WSDL
-
-#### To View the WSDL, you can use a web browser
-
-![](/assets/images/WSDL.png)
-
-4. ### Create a Java SOAP Client
-
-- Generated Files
-
-![](/assets/images/Generated_Files.png)
-
-- main
-
-![](/assets/images/main1.png)
-
-- Java server execution
-
-![](/assets/images/exec2.png)
-
+#### 8. Déployer le Web Service dans un Projet Spring Boot
